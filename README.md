@@ -1,1 +1,1 @@
-# adguardhomerules
+# 自定义一些adguard home rules
