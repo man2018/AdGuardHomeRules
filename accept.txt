@@ -1,1 +1,2 @@
-
+# @@||example.org^ – 放行 example.org 及其所有子域名
+@@||raw.githubusercontent.com^
