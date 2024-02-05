@@ -1,8 +1,2 @@
 # 
-127.0.0.1 m2.5y1rsxmzh.net
-127.0.0.1 m2.5y1rsxmzh.club
-127.0.0.1 m3.e86912e9.org
-127.0.0.1 m3.97xzl.xyz
-127.0.0.1 m3.at1a0e5c.club
-127.0.0.1 t66y.com
-127.0.0.1 google.com
+127.0.0.1 facebook.com
