@@ -1,4 +1,4 @@
 # 
-127.0.0.1 zhituiads.com
-127.0.0.1 macx.net
-127.0.0.1 baidu.com
+#||example.org^
+||macx.net^
+
